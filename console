@@ -1,0 +1,18 @@
+Hibernate: 
+    select
+        employeeen0_.id as id1_0_,
+        employeeen0_.email as email2_0_,
+        employeeen0_.first_name as first_na3_0_,
+        employeeen0_.last_name as last_nam4_0_
+        employeeen0_.Employment_Id as Employment_Id5_0_
+        employeeen0_.Designation as Designation6_0_
+        employeeen0_.Department as Depart7_0_
+        employeeen0_.Start_date as Start_da8_0_
+        employeeen0_.End_Date as End_Date9_0_
+        employeeen0_.Blood_Group as Blood_Grou10_0_
+        employeeen0_.Address as Address11_0_
+        employeeen0_.Status as Status12_0_
+        employeeen0_.Gender as Gender13_0_
+        employeeen0_.Date Of Birth as DOB14_0_
+    from
+        tbl_employees employeeen0_
